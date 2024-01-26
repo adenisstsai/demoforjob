@@ -5,7 +5,7 @@ import time
 from datetime import datetime
 
 def Flight_notify(Product_status_cmp):
-    params = {"message" : '機票資訊更新' + '\r\n' + 'https://p-bandai.com/tw'}
+    params = {"message" : '機票資訊更新' + '\r\n' + 'https://xxxxx.com/tw'}
 
     headers = {
             "Authorization": "Bearer " + "1NRWebAnozSCp3GZxlmMq4K9eyl44YPsjQonB8OwgcJ",
